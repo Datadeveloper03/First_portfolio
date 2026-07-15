@@ -65,7 +65,7 @@ export function Contact() {
                 <span className="font-medium text-lg">sabarishsathiya77@gmail.com</span>
               </a>
               
-              <a href="https://linkedin.com/in/sabarish" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-foreground/80 hover:text-accent transition-colors w-fit p-3 rounded-xl hover:bg-card">
+              <a href="https://www.linkedin.com/in/sabarishsathiya/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-foreground/80 hover:text-accent transition-colors w-fit p-3 rounded-xl hover:bg-card">
                 <div className="p-3 bg-card border border-border rounded-xl">
                   <FaLinkedin className="w-5 h-5" />
                 </div>
